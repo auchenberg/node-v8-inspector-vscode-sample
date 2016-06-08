@@ -6,3 +6,7 @@
 3. Go to Debug tab, select Node, press debug
 4. Set breakpoint.
 5. Party
+
+# Blocking bugs
+
+This debugging experience is currently blocked by https://github.com/nodejs/node/issues/7227 and https://github.com/Microsoft/vscode-chrome-debug-core/issues/17
