@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Node",
+            "type": "chrome",
+            "request": "attach",
+            "port": 5858,
+            "sourceMaps": true,
+            "webRoot": "${workspaceRoot}",
+            "diagnosticLogging": true
+        }      
+    ]
+}
